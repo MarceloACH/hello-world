@@ -4,4 +4,8 @@ Hello World!!!!!!!!!!!!!
 Instruction:
 Change the text in the file.
 Then at the bottom of the screen enter a commit message in the first field of the Commit Changes box. 
+
 Then, Click the Commit Changes button at the bottom of the screen.
+
+Just like we did in Part II, open up GitHub and modify the text in the sample.txt file, making sure you commit the changes.
+Verify that the new changes show up in the commit history on GitHub, but don't pull those changes to your local repository yet.
